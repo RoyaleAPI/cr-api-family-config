@@ -1,0 +1,18 @@
+``` yaml
+name: La Meute Enragée
+key: Enragée
+color: red
+emblem: A_Char_Pekka_02.png
+info:
+  logo: 
+![chienenraznge](https://github.com/user-attachments/assets/3b93ecbe-a71f-46ab-8908-78f1b6ab0c07)
+  description: >
+    La Meute Enragee a pour vocation d'atteindre les sommets. Rejoignez les rangs et renforcez-nous ! Vaillant et fier sans arrogance et respecter des ennemis.
+  social:
+    - discord: https://discord.gg/VRScNXXrRa
+clans:
+  - name: La Meute Enragé
+    tag: QGUQRYYG
+  - name: Meute Enragée 2
+    tag: G8VJ8JRQ
+```
