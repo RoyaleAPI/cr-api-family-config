@@ -59,7 +59,7 @@ You may order these in any order. The site will display them according to the or
 
 ## Colors
 
-![Colors](https://raw.githubusercontent.com/RoyaleAPI/cr-api-docs/master/docs/img/colors.png)
+![Colors](colors.png)
 
 ## Examples
 
